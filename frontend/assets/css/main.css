@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-title-font {
+  font-family: 'OpenDyslexic', cursive;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  color: #3c3c3b;
+  font-size: 20px;
+}
