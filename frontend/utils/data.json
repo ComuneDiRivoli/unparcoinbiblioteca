@@ -5,24 +5,25 @@
     "subtitle": "Percorso partecipativo per ripensare insieme<br/>e valorizzare funzioni e spazi del<br/>Parco Salvemini e della Biblioteca Alda Merini"
   },
   "about": {
-    "img": "https://unparcoinbiblioteca.netlify.app/.netlify/images?url=https:%2F%2Funparcoinbiblioteca.netlify.app%2Fimages%2Fparco_In_biblioteca_1_cropped.jpg",
+    "img": "images/parco_In_biblioteca_1_cropped.jpg",
     "title": "Un parco in biblioteca? Cioè?",
     "content": [
       "<p>La <strong>biblioteca Alda Merini</strong> e il <strong>parco Salvemini</strong> sono due spazi molto amati a Rivoli, bellissimi e con un enorme potenziale nascosto.</p>",
       "<p>Se provassimo a immaginare l'uno come l'estensione dell’altro, a ripensare la biblioteca ed il parco come un unico spazio, allora potremmo creare un luogo fantastico dove poter stare bene insieme con gli altri, immersi nella cultura, nella natura, nelle relazioni.</p>",
-      "<p>Ecco perché questo titolo. Un posto così, però, bisogna <strong>pensarlo tutti insieme!</strong></p>"]
+      "<p>Ecco perché questo titolo. Un posto così, però, bisogna <strong>pensarlo tutti insieme!</strong></p>"
+    ]
   },
   "why": {
-    "img": "https://unparcoinbiblioteca.netlify.app/.netlify/images?url=https:%2F%2Funparcoinbiblioteca.netlify.app%2Fimages%2Fbiblioteca_rivoli.jpg",
+    "img": "images/biblioteca_rivoli.jpg",
     "title": "Perché un percorso partecipativo?",
     "content": [
-      "<p>Un luogo così bisogna <strong>immaginarlo congiuntamente</strong> e un percorso partecipativo è lo strumento più adatto per farlo perché chiama a raccolta tutti coloro che sono, o possono essere interessati.</p>",
+      "<p>Un luogo così bisogna <strong>immaginarlo congiuntamente</strong> e un percorso partecipativo è lo strumento più adatto per farlo perché chiama a raccolta tutti coloro che sono o possono essere interessati.</p>",
       "<p>Mettendo in circolo <strong>competenze, energie, esigenze,</strong> riflessioni di tutti, possiamo riuscire a far emergere una visione nuova e innovativa di questo angolo della nostra città; progettarne funzioni e usi che rispondano ai bisogni della comunità, attivando il <strong>protagonismo individuale e collettivo.</strong></p>"
     ]
   },
   "principles": {
     "title": "Su quali principi si basa?",
-    "note": "Sono previsti momenti formativi per approfondire questi aspetti della democrazia partecipativa.",
+    "note": "",
     "content": [
       {
         "text": "Ascolto reciproco",
@@ -39,6 +40,10 @@
       {
         "text": "Co-progettazione creativa e collaborativa",
         "img": "images/cerchio_parco_in_biblioteca_viola.svg"
+      },
+      {
+        "text": "Fase operativa",
+        "img": "images/cerchio_parco_in_biblioteca_Arancio.svg"
       }
     ]
   },
@@ -52,61 +57,27 @@
     ]
   },
   "when": {
-    "title": "Quando si svolge?",
-    "note": "Tre mesi di incontri, laboratori, interviste e dibattiti per elaborare proposte su funzioni e progettualità, e ripensare gli spazi fisici di biblioteca e parco per accogliere queste nuove visioni. Gli incontri si terranno presso la <strong>biblioteca Alda Merini e il parco Salvemini</strong>.",
-    "dates": [
-      {
-        "date": "26.03",
-        "time": "ore 18:30",
-        "type": "LANCIO",
-        "color": "green"
-      },
-      {
-        "date": "7.04",
-        "time": "dalle ore 18 alle ore 20",
-        "type": "FORMAZIONE",
-        "color": "red"
-      },
-      {
-        "date": "16.04",
-        "time": "ore 20:30",
-        "type": "LABORATORIO VISIONING",
-        "color": "blue"
-      },
-      {
-        "date": "5.05",
-        "time": "ore 20:30",
-        "type": "APPROFONDIMENTO",
-        "color": "purple"
-      },
-      {
-        "date": "17.05",
-        "time": "dalle ore 10:30 alle ore 17",
-        "type": "CHARETTE",
-        "color": "yellow"
-      },
-      {
-        "date": "24.05",
-        "time": "-",
-        "type": "-",
-        "color": "blue"
-      },
-      {
-        "date": "14.06",
-        "time": "dalle ore 14:30 alle ore 19",
-        "type": "ACTION PLANNING",
-        "color": "green"
-      },
-      {
-        "date": "30.06",
-        "time": "ore 20:30",
-        "type": "ESITI",
-        "color": "red"
-      }
-    ]
+    "title": "Che cosa è stato fatto?"
+  },
+  "externalLinks": {
+    "gallery": {
+      "img": "images/Gallery.png",
+      "href": "https://sites.google.com/view/gallery-unparcoinbiblioteca/home-page",
+      "text": "Gallery"
+    },
+    "updates": {
+      "img": "images/aggiornamenti.png",
+      "href": "https://drive.google.com/drive/folders/1PBGNY7MXtK0mvlKXgbOuriN5qLM_2OY9?usp=sharing",
+      "text": "Percorso e Relazione finale"
+    },
+    "program": {
+      "img": "images/programma.png",
+      "href": "https://drive.google.com/file/d/1tCdc1KMjvAaTd1KbE5jG6DpRM4SXEFbc/view?usp=sharing",
+      "text": "Scarica il programma"
+    }
   },
   "join": {
-    "img": "https://unparcoinbiblioteca.netlify.app/.netlify/images?url=https:%2F%2Funparcoinbiblioteca.netlify.app%2Fimages%2Flibri_biblioteca_rivoli.jpg",
+    "img": "images/libri_biblioteca_rivoli.jpg",
     "title": "Come partecipare?",
     "content": [
       "Partecipare è semplice!",
@@ -115,9 +86,27 @@
     ]
   },
   "footer": {
-    "title":"Biblioteca Alda Merini",
+    "title": "Biblioteca Alda Merini",
     "address": "Corso Susa, 130 - 10098 Rivoli",
     "email": "unparcoinbiblioteca@comune.rivoli.to.it",
-    "logo": "https://unparcoinbiblioteca.netlify.app/.netlify/images?w=280&url=https:%2F%2Funparcoinbiblioteca.netlify.app%2Fimages%2FLogo_Ascolto_Attivo_bianco.png"
+    "logo": "images/Logo_Ascolto_Attivo_bianco.png",
+    "rivoli": {
+      "title": "www.comune.rivoli.to.it",
+      "logo": "images/logo_RIVOLI_sito_white.png",
+      "href": "https://www.comune.rivoli.to.it/",
+      "alt": "Logo Città di Rivoli"
+    },
+    "biblioteca": {
+      "title": "Biblioteca Alda Merini",
+      "logo": "images/logo_biblioteca_Alda_Merini.jpg",
+      "href": "https://www.comune.rivoli.to.it/Vivere-il-comune/Luoghi/Biblioteca-civica-Alda-Merini",
+      "alt": "Logo Biblioteca Alda Merini"
+    },
+    "ascoltoAttivo": {
+      "title": "Ascolto Attivo",
+      "logo": "images/ascolto-attivo-logo.svg",
+      "href": "https://ascoltoattivo.net/",
+      "alt": "Logo Ascolto Attivo"
+    }
   }
 }
